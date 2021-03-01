@@ -1,0 +1,4 @@
+application-name: "Lorem"
+
+server:
+    port: 9102
